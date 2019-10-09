@@ -1,0 +1,10 @@
+.embark
+chains.json
+config/livenet/password
+config/production/password
+config/pk.js
+coverage
+dist
+embarkArtifacts
+node_modules
+yarn.lock
